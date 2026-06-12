@@ -1,0 +1,16 @@
+*.png
+*.log
+*.md
+*.pyc
+*.json
+__pycache__/
+data/
+model/*
+.ipynb_checkpoints/
+src/rag_emc/index/chroma_db
+z_notebooks/*
+z_evaluation/*
+.history/*
+src/dictionary/output/*
+src/rag_emc/retrieval_output
+src/rag_emc/validation_output

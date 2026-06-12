@@ -1,0 +1,14 @@
+1. src/get_mention/closeAI-for-gpt3.5.py 
+    - 用gpt3.5生成候选mention，此时仅文本的召回率只有0.6551
+2. src/get_mention/mention_evaluation.py
+    - 得到上述召回率分数
+3. src/get_mention/get_coverage.py
+    - 查看覆盖率区间是否能够覆盖
+4. src/get_mention/mention_generation.py
+    - 保存候选区间数据到json文件
+    - 中间的mention 是存在错误的，准备用 mention_saved.py 来修正,但是实在是懒得写
+5. src/get_mention/add_indices.py
+    - 把 gpt的答案也按照slide_mention的格式添加到json文件中。
+
+
+src/get_mention/ner_results__bc5cdr_formention_slide.json 是最后的结果

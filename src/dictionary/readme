@@ -1,0 +1,33 @@
+.
+├── da_by_dict.py   # 字典检索
+├── output
+│   ├── BC5CDR
+│   │   ├── bc5cdr_train_da_fragments.json
+│   │   └── bc5cdr_train_da.json
+│   ├── bc5cdr_train_da_mention_dependencyTree.json
+│   ├── bc5cdr_train_da_mention_exhaustive.json
+│   ├── NCBI
+│   │   ├── ncbi_train_da_fragments.json
+│   │   └── ncbi_train_da.json
+│   ├── ncbi_train_da_mention_dependencyTree.json
+│   └── ncbi_train_da_mention_exhaustive.json
+├── preprocess
+│   ├── fragments_main.py
+│   ├── fragments_to_mention_dependencyTree.py
+│   ├── fragments_to_mention_exhaustive.py
+│   ├── __init__.py
+└── readme
+
+
+3. 字典检索模块。
+- 脚本：src/dictionary/da_by_dict.py
+- 输入：`data/BC5CDR/merged_bc5cdr_development_data.json`
+- 输出：dictionary/output/BC5CDR/bc5cdr_train_da.json
+
+4. fragment以及mention筛选模块。
+- 脚本：src/dictionary/preprocess/fragments_main.py
+- 输入：dictionary/output/BC5CDR
+- 输出：bc5cdr_train_da_fragments
+
+
+
