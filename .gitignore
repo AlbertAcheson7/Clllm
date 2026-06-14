@@ -14,3 +14,6 @@ z_evaluation/*
 src/dictionary/output/*
 src/rag_emc/retrieval_output
 src/rag_emc/validation_output
+.DS_Store
+**/.DS_Store
+todo_local.md
