@@ -1,3 +1,4 @@
+import os
 from dataclasses import dataclass
 
 @dataclass
@@ -23,3 +24,8 @@ class NERConfig(BaseConfig):
     proj_dim: int = 128
     alpha: float = 0.5  # CE loss 和 CL loss 的权重
     temperature: float = 0.07
+
+    def __post_init__(self):
+        self.train_data_path = os.environ.get("NER_TRAIN_DATA_PATH", self.train_data_path)
+        self.val_data_path = os.environ.get("NER_VAL_DATA_PATH", self.val_data_path)
+        self.test_data_path = os.environ.get("NER_TEST_DATA_PATH", self.test_data_path)

@@ -127,9 +127,9 @@ def main():
 
     is_macos = platform.system() == "Darwin"
     data_limits = {"train": None, "val": None, "test": None}
-    if is_macos:
+    if is_macos and os.environ.get("PRE_EXPERIMENT_FULL_DATA") != "1":
         data_limits = {"train": 10, "val": 5, "test": 1}
-        print("macOS detected: using tiny datasets (train=10, val=5, test=1).")
+        print("macOS detected: using tiny datasets (train=10, val=5, test=1). Set PRE_EXPERIMENT_FULL_DATA=1 to disable.")
     
     print("Loading tokenizer...")
     tokenizer = AutoTokenizer.from_pretrained(config.model_name_or_path)
