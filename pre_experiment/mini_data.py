@@ -9,13 +9,15 @@ LABEL2ID = {l: i for i, l in enumerate(LABELS)}
 ID2LABEL = {i: l for l, i in LABEL2ID.items()}
 
 class BC5CDRDataset(Dataset):
-    def __init__(self, data_path, tokenizer, max_len=128):
+    def __init__(self, data_path, tokenizer, max_len=128, limit=None):
         # 尝试使用不同路径兼容当前工作目录的不同情况
         if not os.path.exists(data_path) and os.path.exists(data_path.replace("../", "")):
             data_path = data_path.replace("../", "")
             
         with open(data_path, 'r', encoding='utf-8') as f:
             self.data = json.load(f)
+        if limit is not None:
+            self.data = self.data[:limit]
         self.tokenizer = tokenizer
         self.max_len = max_len
 
@@ -62,11 +64,11 @@ class BC5CDRDataset(Dataset):
         encoding["labels"] = torch.tensor(labels, dtype=torch.long)
         return encoding
 
-def get_dataloader(data_path, tokenizer, batch_size=4, shuffle=True, max_len=128):
+def get_dataloader(data_path, tokenizer, batch_size=4, shuffle=True, max_len=128, limit=None):
     if not os.path.exists(data_path):
         # 尝试一些默认路径修复
         alt_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "data_pre", "data_pred", "BC5CDR", os.path.basename(data_path))
         if os.path.exists(alt_path):
             data_path = alt_path
-    dataset = BC5CDRDataset(data_path, tokenizer, max_len=max_len)
+    dataset = BC5CDRDataset(data_path, tokenizer, max_len=max_len, limit=limit)
     return DataLoader(dataset, batch_size=batch_size, shuffle=shuffle)

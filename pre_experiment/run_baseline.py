@@ -1,5 +1,6 @@
 import os
-os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
+os.environ.setdefault("HF_ENDPOINT", "https://hf-mirror.com")
+import platform
 import torch
 import torch.nn as nn
 from transformers import AutoTokenizer, get_linear_schedule_with_warmup
@@ -123,14 +124,41 @@ def evaluate(model, dataloader, ce_loss_fn, device, desc="Evaluating"):
 def main():
     device = torch.device(config.device if torch.cuda.is_available() else 'cpu')
     print(f"Using device: {device}")
+
+    is_macos = platform.system() == "Darwin"
+    data_limits = {"train": None, "val": None, "test": None}
+    if is_macos:
+        data_limits = {"train": 10, "val": 5, "test": 1}
+        print("macOS detected: using tiny datasets (train=10, val=5, test=1).")
     
     print("Loading tokenizer...")
     tokenizer = AutoTokenizer.from_pretrained(config.model_name_or_path)
     
     print("Loading datasets (Train, Val, Test)...")
-    train_loader = get_dataloader(config.train_data_path, tokenizer, batch_size=config.batch_size, shuffle=True, max_len=config.max_len)
-    val_loader = get_dataloader(config.val_data_path, tokenizer, batch_size=config.batch_size, shuffle=False, max_len=config.max_len)
-    test_loader = get_dataloader(config.test_data_path, tokenizer, batch_size=config.batch_size, shuffle=False, max_len=config.max_len)
+    train_loader = get_dataloader(
+        config.train_data_path,
+        tokenizer,
+        batch_size=config.batch_size,
+        shuffle=True,
+        max_len=config.max_len,
+        limit=data_limits["train"],
+    )
+    val_loader = get_dataloader(
+        config.val_data_path,
+        tokenizer,
+        batch_size=config.batch_size,
+        shuffle=False,
+        max_len=config.max_len,
+        limit=data_limits["val"],
+    )
+    test_loader = get_dataloader(
+        config.test_data_path,
+        tokenizer,
+        batch_size=config.batch_size,
+        shuffle=False,
+        max_len=config.max_len,
+        limit=data_limits["test"],
+    )
     
     print("Initializing Model...")
     model = ContrastiveNERModel(config.model_name_or_path, num_labels=config.num_labels, proj_dim=config.proj_dim).to(device)
