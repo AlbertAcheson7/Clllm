@@ -1,0 +1,40 @@
+11532	Certain infectious or parasitic diseases
+11533	Gastroenteritis or colitis of infectious origin
+11534	Predominantly sexually transmitted infections
+11535	Mycobacterial diseases
+11536	Certain staphylococcal or streptococcal diseases
+11537	Pyogenic bacterial infections of the skin or subcutaneous tissues
+11538	Certain zoonotic bacterial diseases
+11539	Other bacterial diseases
+11540	Human immunodeficiency virus disease
+11541	Viral infections of the central nervous system
+11542	Non-viral and unspecified infections of the central nervous system
+11543	Dengue
+11544	Certain arthropod-borne viral fevers
+11545	Certain zoonotic viral diseases
+11546	Certain other viral diseases
+11547	Influenza
+11548	Viral hepatitis
+11549	Viral infections characterised by skin or mucous membrane lesions
+11550	Mycoses
+11551	Parasitic diseases
+11689	Infections of the fetus or newborn, Unspecified
+11742	Multibacillary leprosy
+12478	Malignant neoplasm of skin of unknown or unspecified type
+13351	Allergic contact dermatitis, Unspecified
+14177	Mild neurocognitive disorder
+15631	Brachial plexus disorders, Unspecified
+17179	Subsequent myocardial infarction, Unspecified
+17620	Panlobular emphysema
+17740	Structural developmental anomalies of larynx, Unspecified
+18560	Acute dilatation of stomach
+19022	Dystrophic epidermolysis bullosa
+19306	Miliaria
+22455	Crushing injury or traumatic amputation of part of abdomen, Lower back or pelvis
+22992	Injury of multiple blood vessels at lower leg level
+23037	Open wound of ankle or foot, Unspecified
+23401	Injury of flexor muscle, Fascia or tendon of thumb at forearm level, Unspecified
+24293	Unintentional land transport injury event unknown whether traffic or nontraffic injuring a user of unspecified transport
+24302	Unintentional air or space transport injury event, Unspecified
+37103	Neonatal hypocalcaemia
+37396	Certain specified immunological findings

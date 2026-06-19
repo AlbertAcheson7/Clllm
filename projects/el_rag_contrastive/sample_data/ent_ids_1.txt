@@ -1,0 +1,20 @@
+175	Borderline lepromatous leprosy
+1157	Other malignant neoplasms of skin
+2441	Postconcussional syndrome
+2963	Brachial plexus disorders
+3687	Subsequent myocardial infarction of inferior wall
+4231	Panlobular emphysema
+4525	Acute dilatation of stomach
+4920	Allergic contact dermatitis due to adhesives
+5150	Miliaria, unspecified
+6999	Other congenital infectious and parasitic diseases
+7102	Other neonatal hypocalcaemia
+7415	Other congenital malformations of larynx
+7779	Epidermolysis bullosa dystrophica
+8189	Abnormal immunological finding in serum, unspecified
+8560	Crushing injury and traumatic amputation of part of abdomen, lower back and pelvis
+8680	Injury of flexor muscle and tendon of thumb at forearm level
+8881	Injury of multiple blood vessels at lower leg level
+8916	Open wound of other parts of foot
+10022	Rider or occupant injured in collision with railway train or railway vehicle
+10141	Parachutist injured in air transport accident

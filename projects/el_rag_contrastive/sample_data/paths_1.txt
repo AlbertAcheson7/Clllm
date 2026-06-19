@@ -1,0 +1,20 @@
+175	Certain infectious and parasitic diseases, Other bacterial diseases, Leprosy [Hansen disease]
+1157	Neoplasms, Malignant neoplasms, Malignant neoplasms, stated or presumed to be primary, of specified sites, except of lymphoid, haematopoietic and related tissue, Melanoma and other malignant neoplasms of skin
+2441	Mental and behavioural disorders, Organic, including symptomatic, mental disorders, Personality and behavioural disorders due to brain disease, damage and dysfunction
+2963	Diseases of the nervous system, Nerve, nerve root and plexus disorders, Nerve root and plexus disorders
+3687	Diseases of the circulatory system, Ischaemic heart diseases, Subsequent myocardial infarction
+4231	Diseases of the respiratory system, Chronic lower respiratory diseases, Emphysema
+4525	Diseases of the digestive system, Diseases of oesophagus, stomach and duodenum, Other diseases of stomach and duodenum
+4920	Diseases of the skin and subcutaneous tissue, Dermatitis and eczema, Allergic contact dermatitis
+5150	Diseases of the skin and subcutaneous tissue, Disorders of skin appendages, Eccrine sweat disorders
+6999	Certain conditions originating in the perinatal period, Infections specific to the perinatal period
+7102	Certain conditions originating in the perinatal period, Transitory endocrine and metabolic disorders specific to fetus and newborn, Transitory neonatal disorders of calcium and magnesium metabolism
+7415	Congenital malformations, deformations and chromosomal abnormalities, Congenital malformations of the respiratory system, Congenital malformations of larynx
+7779	Congenital malformations, deformations and chromosomal abnormalities, Other congenital malformations, Epidermolysis bullosa
+8189	Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified, Abnormal findings on examination of blood, without diagnosis, Other abnormal immunological findings in serum
+8560	Injury, poisoning and certain other consequences of external causes, Injuries to the abdomen, lower back, lumbar spine and pelvis
+8680	Injury, poisoning and certain other consequences of external causes, Injuries to the elbow and forearm, Injury of muscle and tendon at forearm level
+8881	Injury, poisoning and certain other consequences of external causes, Injuries to the knee and lower leg, Injury of blood vessels at lower leg level
+8916	Injury, poisoning and certain other consequences of external causes, Injuries to the ankle and foot, Open wound of ankle and foot
+10022	Accidents, Transport accidents, Other land transport accidents, Animal-rider or occupant of animal-drawn vehicle injured in transport accident
+10141	Accidents, Transport accidents, Air and space transport accidents, Other specified air transport accidents

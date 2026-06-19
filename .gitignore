@@ -5,7 +5,20 @@
 *.json
 __pycache__/
 data/
-model/*
+models/
+model/
+runs/
+outputs/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+*.tar.gz
+*.zip
+*.pptx
+*.ipynb
 .ipynb_checkpoints/
 src/rag_emc/index/chroma_db
 z_notebooks/*
@@ -17,3 +30,25 @@ src/rag_emc/validation_output
 .DS_Store
 **/.DS_Store
 todo_local.md
+/old_src
+
+# Historical experiment snapshot. New active code lives under projects/.
+experiments/**/outputs/
+experiments/runs/
+
+# The only data intended for Git is the deterministic smoke-test data.
+!SERVER_MIGRATION.md
+!SERVER_STATE_20260619.md
+!LOCAL_DEVELOPMENT.md
+!LOCAL_STATE_20260619.md
+!PROJECT_LAYOUT.md
+!projects/README.md
+!projects/ner_span_pruner/README.md
+!projects/el_rag_contrastive/README.md
+!archive/legacy/README.md
+!archive/legacy/token_contrastive_ner/README.md
+!archive/legacy/**/*.md
+!projects/ner_span_pruner/sample_data/
+!projects/ner_span_pruner/sample_data/**
+!projects/el_rag_contrastive/sample_data/
+!projects/el_rag_contrastive/sample_data/**

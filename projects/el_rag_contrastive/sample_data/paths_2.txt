@@ -1,0 +1,40 @@
+11532
+11533	Certain infectious or parasitic diseases
+11534	Certain infectious or parasitic diseases
+11535	Certain infectious or parasitic diseases
+11536	Certain infectious or parasitic diseases
+11537	Certain infectious or parasitic diseases
+11538	Certain infectious or parasitic diseases
+11539	Certain infectious or parasitic diseases
+11540	Certain infectious or parasitic diseases
+11541	Certain infectious or parasitic diseases
+11542	Certain infectious or parasitic diseases
+11543	Certain infectious or parasitic diseases
+11544	Certain infectious or parasitic diseases
+11545	Certain infectious or parasitic diseases
+11546	Certain infectious or parasitic diseases
+11547	Certain infectious or parasitic diseases
+11548	Certain infectious or parasitic diseases
+11549	Certain infectious or parasitic diseases
+11550	Certain infectious or parasitic diseases
+11551	Certain infectious or parasitic diseases
+11689	Certain conditions originating in the perinatal period, Infections of the fetus or newborn
+11742	Certain infectious or parasitic diseases, Mycobacterial diseases, Leprosy
+12478	Neoplasms, Malignant neoplasms, Except primary neoplasms of lymphoid, Haematopoietic, Central nervous system or related tissues, Malignant neoplasms, Stated or presumed to be primary, Of specified sites, Except of lymphoid, Haematopoietic, Central nervous system or related tissues, Malignant neoplasms of skin
+13351	Diseases of the skin, Skin disorders provoked by external factors, Allergic contact dermatitis
+14177	Mental, Behavioural or neurodevelopmental disorders, Neurocognitive disorders
+15631	Diseases of the nervous system, Disorders of nerve root, Plexus or peripheral nerves, Nerve root or plexus disorders, Brachial plexus disorders
+17179	Diseases of the circulatory system, Ischaemic heart diseases, Acute ischaemic heart disease, Subsequent myocardial infarction
+17620	Diseases of the respiratory system, Certain lower respiratory tract diseases, Emphysema
+17740	Developmental anomalies, Structural developmental anomalies primarily affecting one body system, Structural developmental anomalies of the respiratory system, Structural developmental anomalies of larynx
+18560	Diseases of the digestive system, Diseases of the stomach or the duodenum, Diseases of stomach, Gastroduodenal motor or secretory disorders
+19022	Diseases of the skin, Genetic and developmental disorders affecting the skin, Genetically-determined epidermolysis bullosa
+19306	Diseases of the skin, Skin disorders involving specific cutaneous structures, Disorders of the epidermis and epidermal appendages, Disorders of eccrine sweat glands or sweating
+22455	Injury, Poisoning or certain other consequences of external causes, Injuries to the abdomen, Lower back, Lumbar spine or pelvis
+22992	Injury, Poisoning or certain other consequences of external causes, Injuries to the knee or lower leg, Injury of blood vessels at lower leg level
+23037	Injury, Poisoning or certain other consequences of external causes, Injuries to the ankle or foot, Open wound of ankle or foot
+23401	Injury, Poisoning or certain other consequences of external causes, Injuries to the elbow or forearm, Injury of muscle, Fascia, Tendon or bursa at forearm level, Injury of flexor muscle, Fascia or tendon of thumb at forearm level
+24293	External causes of morbidity or mortality, Unintentional causes, Unintentional transport injury event, Unintentional land transport injury event unknown whether road traffic or off-road nontraffic
+24302	External causes of morbidity or mortality, Unintentional causes, Unintentional transport injury event, Unintentional air or space transport injury event
+37103	Certain conditions originating in the perinatal period, Transitory endocrine or metabolic disorders specific to fetus or newborn, Transitory neonatal disorders of calcium or magnesium metabolism
+37396	Symptoms, Signs or clinical findings, Not elsewhere classified, Symptoms, Signs or clinical findings of blood, Blood-forming organs, Or the immune system, Clinical findings in blood, Blood-forming organs, Or the immune system, Immunological findings in blood, Blood-forming organs, Or the immune system

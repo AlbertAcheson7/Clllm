@@ -1,0 +1,450 @@
+[
+  {
+    "text": "Famotidine-associated delirium. A series of six cases.",
+    "sentence_id": "8701013-t0",
+    "source": "title",
+    "entities": [
+      [
+        "Famotidine",
+        0,
+        10,
+        "Chemical",
+        "D015738"
+      ],
+      [
+        "delirium",
+        22,
+        30,
+        "Disease",
+        "D003693"
+      ]
+    ]
+  },
+  {
+    "text": "Famotidine is a histamine H2-receptor antagonist used in inpatient settings for prevention of stress ulcers and is showing increasing popularity because of its low cost. Although all of the currently available H2-receptor antagonists have shown the propensity to cause delirium, only two previously reported cases have been associated with famotidine. The authors report on six cases of famotidine-associated delirium in hospitalized patients who cleared completely upon removal of famotidine. The pharmacokinetics of famotidine are reviewed, with no change in its metabolism in the elderly population seen. The implications of using famotidine in elderly persons are discussed.",
+    "sentence_id": "8701013-a0",
+    "source": "abstract",
+    "entities": [
+      [
+        "Famotidine",
+        0,
+        10,
+        "Chemical",
+        "D015738"
+      ],
+      [
+        "ulcers",
+        101,
+        107,
+        "Disease",
+        "D014456"
+      ],
+      [
+        "delirium",
+        269,
+        277,
+        "Disease",
+        "D003693"
+      ],
+      [
+        "famotidine",
+        340,
+        350,
+        "Chemical",
+        "D015738"
+      ],
+      [
+        "famotidine",
+        387,
+        397,
+        "Chemical",
+        "D015738"
+      ],
+      [
+        "delirium",
+        409,
+        417,
+        "Disease",
+        "D003693"
+      ],
+      [
+        "famotidine",
+        482,
+        492,
+        "Chemical",
+        "D015738"
+      ],
+      [
+        "famotidine",
+        518,
+        528,
+        "Chemical",
+        "D015738"
+      ],
+      [
+        "famotidine",
+        634,
+        644,
+        "Chemical",
+        "D015738"
+      ]
+    ]
+  },
+  {
+    "text": "Indomethacin induced hypotension in sodium and volume depleted rats.",
+    "sentence_id": "439781-t0",
+    "source": "title",
+    "entities": [
+      [
+        "Indomethacin",
+        0,
+        12,
+        "Chemical",
+        "D007213"
+      ],
+      [
+        "hypotension",
+        21,
+        32,
+        "Disease",
+        "D007022"
+      ],
+      [
+        "sodium",
+        36,
+        42,
+        "Chemical",
+        "D012964"
+      ]
+    ]
+  },
+  {
+    "text": "After a single oral dose of 4 mg/kg indomethacin (IDM) to sodium and volume depleted rats plasma renin activity (PRA) and systolic blood pressure fell significantly within four hours. In sodium repleted animals indomethacin did not change systolic blood pressure (BP) although plasma renin activity was decreased. Thus, indomethacin by inhibition of prostaglandin synthesis may diminish the blood pressure maintaining effect of the stimulated renin-angiotensin system in sodium and volume depletion.",
+    "sentence_id": "439781-a0",
+    "source": "abstract",
+    "entities": [
+      [
+        "indomethacin",
+        36,
+        48,
+        "Chemical",
+        "D007213"
+      ],
+      [
+        "IDM",
+        50,
+        53,
+        "Chemical",
+        "D007213"
+      ],
+      [
+        "sodium",
+        58,
+        64,
+        "Chemical",
+        "D012964"
+      ],
+      [
+        "sodium",
+        187,
+        193,
+        "Chemical",
+        "D012964"
+      ],
+      [
+        "indomethacin",
+        211,
+        223,
+        "Chemical",
+        "D007213"
+      ],
+      [
+        "indomethacin",
+        320,
+        332,
+        "Chemical",
+        "D007213"
+      ],
+      [
+        "prostaglandin",
+        350,
+        363,
+        "Chemical",
+        "D011453"
+      ],
+      [
+        "angiotensin",
+        449,
+        460,
+        "Chemical",
+        "D000809"
+      ],
+      [
+        "sodium",
+        471,
+        477,
+        "Chemical",
+        "D012964"
+      ]
+    ]
+  },
+  {
+    "text": "Late-onset scleroderma renal crisis induced by tacrolimus and prednisolone: a case report.",
+    "sentence_id": "22836123-t0",
+    "source": "title",
+    "entities": [
+      [
+        "scleroderma renal crisis",
+        11,
+        35,
+        "Disease",
+        "D007674"
+      ],
+      [
+        "tacrolimus",
+        47,
+        57,
+        "Chemical",
+        "D016559"
+      ],
+      [
+        "prednisolone",
+        62,
+        74,
+        "Chemical",
+        "D011239"
+      ]
+    ]
+  },
+  {
+    "text": "Scleroderma renal crisis (SRC) is a rare complication of systemic sclerosis (SSc) but can be severe enough to require temporary or permanent renal replacement therapy. Moderate to high dose corticosteroid use is recognized as a major risk factor for SRC. Furthermore, there have been reports of thrombotic microangiopathy precipitated by cyclosporine in patients with SSc. In this article, we report a patient with SRC induced by tacrolimus and corticosteroids. The aim of this work is to call attention to the risk of tacrolimus use in patients with SSc.",
+    "sentence_id": "22836123-a0",
+    "source": "abstract",
+    "entities": [
+      [
+        "Scleroderma renal crisis",
+        0,
+        24,
+        "Disease",
+        "D007674"
+      ],
+      [
+        "SRC",
+        26,
+        29,
+        "Disease",
+        "D007674"
+      ],
+      [
+        "systemic sclerosis",
+        57,
+        75,
+        "Disease",
+        "D012595"
+      ],
+      [
+        "SSc",
+        77,
+        80,
+        "Disease",
+        "D012595"
+      ],
+      [
+        "corticosteroid",
+        190,
+        204,
+        "Chemical",
+        "D000305"
+      ],
+      [
+        "SRC",
+        250,
+        253,
+        "Disease",
+        "D007674"
+      ],
+      [
+        "thrombotic microangiopathy",
+        295,
+        321,
+        "Disease",
+        "D057049"
+      ],
+      [
+        "cyclosporine",
+        338,
+        350,
+        "Chemical",
+        "D016572"
+      ],
+      [
+        "SSc",
+        368,
+        371,
+        "Disease",
+        "D012595"
+      ],
+      [
+        "SRC",
+        415,
+        418,
+        "Disease",
+        "D007674"
+      ],
+      [
+        "tacrolimus",
+        430,
+        440,
+        "Chemical",
+        "D016559"
+      ],
+      [
+        "corticosteroids",
+        445,
+        460,
+        "Chemical",
+        "D000305"
+      ],
+      [
+        "tacrolimus",
+        519,
+        529,
+        "Chemical",
+        "D016559"
+      ],
+      [
+        "SSc",
+        551,
+        554,
+        "Disease",
+        "D012595"
+      ]
+    ]
+  },
+  {
+    "text": "The risk and associated factors of methamphetamine psychosis in methamphetamine-dependent patients in Malaysia.",
+    "sentence_id": "23433219-t0",
+    "source": "title",
+    "entities": [
+      [
+        "methamphetamine",
+        35,
+        50,
+        "Chemical",
+        "D008694"
+      ],
+      [
+        "psychosis",
+        51,
+        60,
+        "Disease",
+        "D011605"
+      ],
+      [
+        "methamphetamine",
+        64,
+        79,
+        "Chemical",
+        "D008694"
+      ]
+    ]
+  },
+  {
+    "text": "Cerebellar sensory processing alterations impact motor cortical plasticity in Parkinson's disease: clues from dyskinetic patients.",
+    "sentence_id": "23535177-t0",
+    "source": "title",
+    "entities": [
+      [
+        "Parkinson's disease",
+        78,
+        97,
+        "Disease",
+        "D010300"
+      ],
+      [
+        "dyskinetic",
+        110,
+        120,
+        "Disease",
+        "D004409"
+      ]
+    ]
+  },
+  {
+    "text": "The plasticity of primary motor cortex (M1) in patients with Parkinson's disease (PD) and levodopa-induced dyskinesias (LIDs) is severely impaired. We recently reported in young healthy subjects that inhibitory cerebellar stimulation enhanced the sensorimotor plasticity of M1 that was induced by paired associative stimulation (PAS). This study demonstrates that the deficient sensorimotor M1 plasticity in 16 patients with LIDs could be reinstated by a single session of real inhibitory cerebellar stimulation but not sham stimulation. This was evident only when a sensory component was involved in the induction of plasticity, indicating that cerebellar sensory processing function is involved in the resurgence of M1 plasticity. The benefit of inhibitory cerebellar stimulation on LIDs is known. To explore whether this benefit is linked to the restoration of sensorimotor plasticity of M1, we conducted an additional study looking at changes in LIDs and PAS-induced plasticity after 10 sessions of either bilateral, real inhibitory cerebellar stimulation or sham stimulation.",
+    "sentence_id": "23535177-a0",
+    "source": "abstract",
+    "entities": [
+      [
+        "Parkinson's disease",
+        61,
+        80,
+        "Disease",
+        "D010300"
+      ],
+      [
+        "PD",
+        82,
+        84,
+        "Disease",
+        "D010300"
+      ],
+      [
+        "levodopa",
+        90,
+        98,
+        "Chemical",
+        "D007980"
+      ],
+      [
+        "dyskinesias",
+        107,
+        118,
+        "Disease",
+        "D004409"
+      ],
+      [
+        "LIDs",
+        120,
+        124,
+        "Disease",
+        "D004409"
+      ],
+      [
+        "LIDs",
+        425,
+        429,
+        "Disease",
+        "D004409"
+      ],
+      [
+        "LIDs",
+        785,
+        789,
+        "Disease",
+        "D004409"
+      ],
+      [
+        "LIDs",
+        950,
+        954,
+        "Disease",
+        "D004409"
+      ]
+    ]
+  },
+  {
+    "text": "Only real and not sham stimulation had an antidyskinetic effect and it was paralleled by a resurgence in the sensorimotor plasticity of M1. These results suggest that alterations in cerebellar sensory processing function, occurring secondary to abnormal basal ganglia signals reaching it, may be an important element contributing to the maladaptive sensorimotor plasticity of M1 and the emergence of abnormal involuntary movements.",
+    "sentence_id": "23535177-a1",
+    "source": "abstract",
+    "entities": [
+      [
+        "abnormal involuntary movements",
+        400,
+        430,
+        "Disease",
+        "D004409"
+      ]
+    ]
+  }
+]

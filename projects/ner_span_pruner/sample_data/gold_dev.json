@@ -1,0 +1,421 @@
+[
+  {
+    "text": "Tricuspid valve regurgitation and lithium carbonate toxicity in a newborn infant.",
+    "sentence_id": "6794356-t0",
+    "source": "title",
+    "entities": [
+      [
+        "Tricuspid valve regurgitation",
+        0,
+        29,
+        "Disease",
+        "D014262"
+      ],
+      [
+        "lithium carbonate",
+        34,
+        51,
+        "Chemical",
+        "D016651"
+      ],
+      [
+        "toxicity",
+        52,
+        60,
+        "Disease",
+        "D064420"
+      ]
+    ]
+  },
+  {
+    "text": "A newborn with massive tricuspid regurgitation, atrial flutter, congestive heart failure, and a high serum lithium level is described. This is the first patient to initially manifest tricuspid regurgitation and atrial flutter, and the 11th described patient with cardiac disease among infants exposed to lithium compounds in the first trimester of pregnancy. Sixty-three percent of these infants had tricuspid valve involvement. Lithium carbonate may be a factor in the increasing incidence of congenital heart disease when taken during early pregnancy. It also causes neurologic depression, cyanosis, and cardiac arrhythmia when consumed prior to delivery.",
+    "sentence_id": "6794356-a0",
+    "source": "abstract",
+    "entities": [
+      [
+        "tricuspid regurgitation",
+        23,
+        46,
+        "Disease",
+        "D014262"
+      ],
+      [
+        "atrial flutter",
+        48,
+        62,
+        "Disease",
+        "D001282"
+      ],
+      [
+        "congestive heart failure",
+        64,
+        88,
+        "Disease",
+        "D006333"
+      ],
+      [
+        "lithium",
+        107,
+        114,
+        "Chemical",
+        "D008094"
+      ],
+      [
+        "tricuspid regurgitation",
+        183,
+        206,
+        "Disease",
+        "D014262"
+      ],
+      [
+        "atrial flutter",
+        211,
+        225,
+        "Disease",
+        "D001282"
+      ],
+      [
+        "cardiac disease",
+        263,
+        278,
+        "Disease",
+        "D006331"
+      ],
+      [
+        "lithium",
+        304,
+        311,
+        "Chemical",
+        "D008094"
+      ],
+      [
+        "Lithium carbonate",
+        429,
+        446,
+        "Chemical",
+        "D016651"
+      ],
+      [
+        "congenital heart disease",
+        494,
+        518,
+        "Disease",
+        "D006331"
+      ],
+      [
+        "neurologic depression",
+        569,
+        590,
+        "Disease",
+        "D003866"
+      ],
+      [
+        "cyanosis",
+        592,
+        600,
+        "Disease",
+        "D003490"
+      ],
+      [
+        "cardiac arrhythmia",
+        606,
+        624,
+        "Disease",
+        "D001145"
+      ]
+    ]
+  },
+  {
+    "text": "Phenobarbital-induced dyskinesia in a neurologically-impaired child.",
+    "sentence_id": "6504332-t0",
+    "source": "title",
+    "entities": [
+      [
+        "Phenobarbital",
+        0,
+        13,
+        "Chemical",
+        "D010634"
+      ],
+      [
+        "dyskinesia",
+        22,
+        32,
+        "Disease",
+        "D004409"
+      ],
+      [
+        "neurologically-impaired",
+        38,
+        61,
+        "Disease",
+        "D009422"
+      ]
+    ]
+  },
+  {
+    "text": "A 2-year-old child with known neurologic impairment developed a dyskinesia soon after starting phenobarbital therapy for seizures. Known causes of movement disorders were eliminated after evaluation. On repeat challenge with phenobarbital, the dyskinesia recurred. Phenobarbital should be added to the list of anticonvulsant drugs that can cause movement disorders.",
+    "sentence_id": "6504332-a0",
+    "source": "abstract",
+    "entities": [
+      [
+        "neurologic impairment",
+        30,
+        51,
+        "Disease",
+        "D009422"
+      ],
+      [
+        "dyskinesia",
+        64,
+        74,
+        "Disease",
+        "D004409"
+      ],
+      [
+        "phenobarbital",
+        95,
+        108,
+        "Chemical",
+        "D010634"
+      ],
+      [
+        "seizures",
+        121,
+        129,
+        "Disease",
+        "D012640"
+      ],
+      [
+        "movement disorders",
+        147,
+        165,
+        "Disease",
+        "D009069"
+      ],
+      [
+        "phenobarbital",
+        225,
+        238,
+        "Chemical",
+        "D010634"
+      ],
+      [
+        "dyskinesia",
+        244,
+        254,
+        "Disease",
+        "D004409"
+      ],
+      [
+        "Phenobarbital",
+        265,
+        278,
+        "Chemical",
+        "D010634"
+      ],
+      [
+        "movement disorders",
+        346,
+        364,
+        "Disease",
+        "D009069"
+      ]
+    ]
+  },
+  {
+    "text": "Acute changes of blood ammonia may predict short-term adverse effects of valproic acid.",
+    "sentence_id": "6436733-t0",
+    "source": "title",
+    "entities": [
+      [
+        "ammonia",
+        23,
+        30,
+        "Chemical",
+        "D000641"
+      ],
+      [
+        "valproic acid",
+        73,
+        86,
+        "Chemical",
+        "D014635"
+      ]
+    ]
+  },
+  {
+    "text": "Valproic acid (VPA) was given to 24 epileptic patients who were already being treated with other antiepileptic drugs. A standardized loading dose of VPA was administered, and venous blood was sampled at 0, 1, 2, 3, and 4 hours. Ammonia (NH3) was higher in patients who, during continuous therapy, complained of drowsiness (7 patients) than in those who were symptom-free (17 patients), although VPA plasma levels were similar in both groups. By measuring VPA-induced changes of blood NH3 content, it may be possible to identify patients at higher risk of obtundation when VPA is given chronically.",
+    "sentence_id": "6436733-a0",
+    "source": "abstract",
+    "entities": [
+      [
+        "Valproic acid",
+        0,
+        13,
+        "Chemical",
+        "D014635"
+      ],
+      [
+        "VPA",
+        15,
+        18,
+        "Chemical",
+        "D014635"
+      ],
+      [
+        "epileptic",
+        36,
+        45,
+        "Disease",
+        "D004827"
+      ],
+      [
+        "VPA",
+        149,
+        152,
+        "Chemical",
+        "D014635"
+      ],
+      [
+        "Ammonia",
+        228,
+        235,
+        "Chemical",
+        "D000641"
+      ],
+      [
+        "NH3",
+        237,
+        240,
+        "Chemical",
+        "D000641"
+      ],
+      [
+        "drowsiness",
+        311,
+        321,
+        "Disease",
+        "D006970"
+      ],
+      [
+        "VPA",
+        395,
+        398,
+        "Chemical",
+        "D014635"
+      ],
+      [
+        "VPA",
+        455,
+        458,
+        "Chemical",
+        "D014635"
+      ],
+      [
+        "NH3",
+        484,
+        487,
+        "Chemical",
+        "D000641"
+      ],
+      [
+        "VPA",
+        572,
+        575,
+        "Chemical",
+        "D014635"
+      ]
+    ]
+  },
+  {
+    "text": "Effects of calcitonin on rat extrapyramidal motor system: behavioral and biochemical data.",
+    "sentence_id": "6293644-t0",
+    "source": "title",
+    "entities": []
+  },
+  {
+    "text": "Development of isoproterenol-induced cardiac hypertrophy.",
+    "sentence_id": "6203632-t0",
+    "source": "title",
+    "entities": [
+      [
+        "isoproterenol",
+        15,
+        28,
+        "Chemical",
+        "D007545"
+      ],
+      [
+        "cardiac hypertrophy",
+        37,
+        56,
+        "Disease",
+        "D006332"
+      ]
+    ]
+  },
+  {
+    "text": "Co-carcinogenic effect of retinyl acetate on forestomach carcinogenesis of male F344 rats induced with butylated hydroxyanisole.",
+    "sentence_id": "3131282-t0",
+    "source": "title",
+    "entities": [
+      [
+        "carcinogenic",
+        3,
+        15,
+        "Disease",
+        "D063646"
+      ],
+      [
+        "retinyl acetate",
+        26,
+        41,
+        "Chemical",
+        "C009166"
+      ],
+      [
+        "forestomach carcinogenesis",
+        45,
+        71,
+        "Disease",
+        "D013274"
+      ],
+      [
+        "butylated hydroxyanisole",
+        103,
+        127,
+        "Chemical",
+        "D002083"
+      ]
+    ]
+  },
+  {
+    "text": "Ketanserin pretreatment reverses alfentanil-induced muscle rigidity.",
+    "sentence_id": "3115150-t0",
+    "source": "title",
+    "entities": [
+      [
+        "Ketanserin",
+        0,
+        10,
+        "Chemical",
+        "D007650"
+      ],
+      [
+        "alfentanil",
+        33,
+        43,
+        "Chemical",
+        "D015760"
+      ],
+      [
+        "muscle rigidity",
+        52,
+        67,
+        "Disease",
+        "D009127"
+      ]
+    ]
+  }
+]
